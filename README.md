@@ -20,7 +20,9 @@ If you want to see my LinkedIn, here is the Link [LinkedIn](https://www.linkedin
 ~~~
 I have a lot of projects like:
 - Adilbet, it is a Bet Web Page, using React.js, Express.js, JavaScript, Css and CSS MODULES. 🙌
-- Conjunto Santacruz, it is a 100% personal project, working fullstack for a Apartment complex company, woeking remote all days. 👏
+- Conjunto Santacruz, it is a 100% personal project, working fullstack for a Apartment complex company, woeking 
+remote all days. 👏
+- Incoming...
 ~~~
 
 Thanks for watch. 👋
