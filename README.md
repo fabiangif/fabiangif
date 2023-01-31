@@ -13,7 +13,7 @@ I like to be different, be faster and be strategic with my desitions. That's the
 
 If you want to see my LinkedIn, here is the Link [LinkedIn](https://www.linkedin.com/in/fabian-david-tinjaca-salazar-95a787254/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisRodriguzz&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiangif&show_icons=true&theme=gruvbox)
 
 Thanks for watch. 👋
 }
