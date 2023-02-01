@@ -11,8 +11,6 @@ I like to be different, be faster and be strategic with my desitions. That's the
 
 >Never stop learning because life never stops teaching - Cambridge
 
-If you want to see my LinkedIn, here is the Link [LinkedIn](https://www.linkedin.com/in/fabian-david-tinjaca-salazar-95a787254/)
-
 # Personal Stats 🦾
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiangif&layout=compact)](#)
@@ -27,6 +25,12 @@ I have a lot of projects like:
 remote all days. 👏
 - Incoming...
 ~~~
+
+# Contacts 📁
+
+If you want to see my LinkedIn: 
+[LinkedIn](https://www.linkedin.com/in/fabian-david-tinjaca-salazar-95a787254/)
+Email Adress: tinjacasalazar123@gmail.com
 
 Thanks for watch. 👋
 }
