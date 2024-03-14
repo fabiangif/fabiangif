@@ -17,7 +17,7 @@ I like to be different, be faster and be strategic with my desitions. That's the
 
 # Personal Stats 🦾
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiangif&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 Real Works! 👇
 ~~~
