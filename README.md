@@ -3,7 +3,8 @@
 # console.log(AboutMe 📁)
 
 return {
-Are you looking to stand out in the digital waves and conquer the top of search results? 🌐 As a web development specialist and SEO strategist, I have the key to elevate your online presence.
+Are you looking to stand out in the digital waves and conquer the top of search results? 🌐 
+As a web development specialist and SEO strategist, I have the key to elevate your online presence.
 
 From the technical optimization of your site to the orchestration of cutting-edge SEO tactics, my focus is not only on building impressive websites, but also strategically positioning them on the digital map.
 
