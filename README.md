@@ -1,41 +1,71 @@
-### Hi Everyone!
+<div align="center">
+  
+# 🌍 Fabian Tinjaca | Global Digital Strategist
 
-# console.log(AboutMe 📁)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiantinjaca/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinjacasalazar123@gmail.com)
 
-return {
-Are you looking to stand out in the digital waves and conquer the top of search results? 🌐 
-As a web development specialist and SEO strategist, I have the key to elevate your online presence.
+</div>
 
-From the technical optimization of your site to the orchestration of cutting-edge SEO tactics, my focus is not only on building impressive websites, but also strategically positioning them on the digital map.
+## 🚀 About Me
 
-Imagine every line of code as a solid foundation and every keyword as a beacon guiding your audience to your business. My mission is to merge technical excellence with search strategy so that your company not only becomes visible but also the preferred choice.
+Digital nomad and web development specialist with a proven track record across four continents. I transform digital presence into measurable success through innovative web development and strategic digital marketing.
 
-Ready to take your online presence to new heights and secure a prominent place in search results? Connect with me, and let's build your digital success together!
+```javascript
+const aboutMe = {
+    role: "Full Stack Developer & Digital Marketing Strategist",
+    languages: {
+        spoken: ["English (C1)", "Spanish (Native)"],
+        programming: ["JavaScript", "Python", "PHP", "HTML/CSS"]
+    },
+    location: "Global",
+    passion: "Creating impactful digital solutions"
+};
+```
 
-I like to be different, be faster and be strategic with my desitions. That's the things i have and it's different between the other people. What about my English Level? 💼 I've a professional english level (C1). I can communicate ideas, write documents, talk with my co-workers, etc. 🥇 My spanish is native.
+## 🌐 Global Experience
 
-> Never stop learning because life never stops teaching - Cambridge
+- 🇦🇪 **United Arab Emirates** - Digital Transformation Projects
+- 🇺🇸 **United States** - Capital One & Tech Consultancy
+- 🇨🇴 **Colombia** - Web Development & Local SEO
+- 🇹🇷 **Turkey** - Digital Marketing Campaigns
 
-# Personal Stats 🦾
+## 💼 Expertise
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+```javascript
+const skills = {
+    webDevelopment: ["Responsive Design", "Frontend", "Backend", "API Integration"],
+    digitalMarketing: {
+        platforms: ["Meta Ads", "Google Ads", "TikTok Ads"],
+        seo: ["Technical SEO", "On-page SEO", "Off-page SEO", "Local SEO"]
+    }
+};
+```
 
-Real Works! 👇
-~~~
-I have a lot of projects like:
-- Adilbet: Webpage about baseball bets.
-- Conjunto Santacruz: Develop a webpage about apartment complex on Colombia, Villeta.
-- Booking Web: SEO ad Development of a web application where you can find a good place to reserve on Santa Marta, Colombia.
-- Gaveras Gualivá: SEO and Development of a landing web page.
-- Agency experience on SEO off page and SEO on page with local SEO.
-- I've work for one of the most important banks on United States (Capital One)
-~~~
+## 🎯 Featured Projects
 
-# Contacts 📁
+1. **Adilbet** - Baseball betting platform with advanced analytics
+2. **Conjunto Santacruz** - Real estate platform for luxury apartments in Villeta, Colombia
+3. **Booking Web** - Custom booking system for Santa Marta properties
+4. **Gaveras Gualivá** - High-conversion landing page with local SEO optimization
+5. **Capital One** (USA) - Contributing to one of America's leading banking platforms
 
-If you want to see my LinkedIn: 
-[LinkedIn](https://www.linkedin.com/in/fabiantinjaca/)
-Email Adress: tinjacasalazar123@gmail.com
+## 📈 GitHub Stats
 
-Thanks for watch. 👋
-}
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=tokyonight)
+
+## 🎯 Philosophy
+
+> "In the digital realm, standing still is moving backward. I believe in constant innovation, rapid adaptation, and strategic execution."
+
+## 🤝 Let's Connect
+
+Whether you're looking to elevate your online presence, optimize your digital marketing strategy, or build a cutting-edge web solution, I'm here to help transform your digital vision into reality.
+
+```javascript
+const contact = {
+    email: "tinjacasalazar123@gmail.com",
+    linkedin: "linkedin.com/in/fabiantinjaca/",
+    availability: "Open to interesting projects and collaborations"
+};
+```
