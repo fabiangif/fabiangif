@@ -16,7 +16,7 @@ const aboutMe = {
     role: "Full Stack Developer & Digital Marketing Strategist",
     languages: {
         spoken: ["English (C1)", "Spanish (Native)"],
-        programming: ["JavaScript", "Python", "PHP", "HTML/CSS"]
+        programming: ["JavaScript", "React", "Redux", "HTML/CSS", "Node"]
     },
     location: "Global",
     passion: "Creating impactful digital solutions"
@@ -44,8 +44,8 @@ const skills = {
 
 ## 🎯 Featured Projects
 
-1. **Adilbet** - Baseball betting platform with advanced analytics
-2. **Conjunto Santacruz** - Real estate platform for luxury apartments in Villeta, Colombia
+1. **Business Dubai Solutions** - Consultancy Webpage About Setup Companies in Dubai
+2. **Inversiones Dubai** - Real estate platform for luxury apartments in United Arab Emirates
 3. **Booking Web** - Custom booking system for Santa Marta properties
 4. **Gaveras Gualivá** - High-conversion landing page with local SEO optimization
 5. **Capital One** (USA) - Contributing to one of America's leading banking platforms
