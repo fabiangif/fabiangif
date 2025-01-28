@@ -46,7 +46,7 @@ const skills = {
 
 1. **Business Dubai Solutions** - Consultancy Webpage About Setup Companies in Dubai
 2. **Inversiones Dubai** - Real estate platform for luxury apartments in United Arab Emirates
-3. **Booking Web** - Custom booking system for Santa Marta properties
+3. **Photograper Web** - Web About Realistic Ablum for interested clients
 4. **Gaveras Gualivá** - High-conversion landing page with local SEO optimization
 5. **Capital One** (USA) - Contributing to one of America's leading banking platforms
 
