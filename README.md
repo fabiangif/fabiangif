@@ -16,7 +16,7 @@ const aboutMe = {
     role: "Full Stack Developer & Digital Marketing Strategist",
     languages: {
         spoken: ["English (C1)", "Spanish (Native)"],
-        programming: ["JavaScript", "React", "Redux", "HTML/CSS", "Node"]
+        programming: ["JavaScript", "React", "Redux", "HTML/CSS", "Node", "Express", "JWT", "Firebase", "Axios", "PostgreSQL", "Sequelize"]
     },
     location: "Global",
     passion: "Creating impactful digital solutions"
